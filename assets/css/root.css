@@ -12,7 +12,12 @@
     --d-blue: #2C49FE;
     --white: white;
     --black: black;
+    --black-1: rgba(0, 0, 0, 0.10);
+    --black-2: rgba(0, 0, 0, 0.20);
     /* background-color */
     --bg-d-blue: #2C49FE;
     --bg-black: black;
+    --bg-white: white;
+    --bg-blue: #1E71FF;
+    --bg-blue2: rgba(45, 60, 174, 0.53);
 }
